@@ -9,5 +9,7 @@ public class Haha {
          System.out.println("haha");
          System.out.println("haha");
          System.out.println("haha");
+
+         System.out.println("master");
      }
 }
